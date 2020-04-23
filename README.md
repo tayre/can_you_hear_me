@@ -10,5 +10,5 @@ Simple Chrome Extension to better indicate if you are on mute while on a Google 
 
 
 ### Install from Chrome Web Store
-1. Visit {{todo}}
+1. Visit https://chrome.google.com/webstore/detail/dlbhmcempgalcknkjjpiljnkdmbbgaag
 
